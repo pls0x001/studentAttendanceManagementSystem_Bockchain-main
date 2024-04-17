@@ -21,4 +21,4 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
-You are most welcome to contribute or use and distribute this code :) .  
+You are most welcome to contribute or use and distribute this code :).  
